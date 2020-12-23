@@ -1,7 +1,6 @@
 ---
-title: "Latest News"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Latest News & Events
+subtitle: ''
+description: This is meta description
+
 ---
