@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Pricing list
 subtitle: ''
 description: This is meta description
 basic:
