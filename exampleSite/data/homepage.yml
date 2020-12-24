@@ -48,11 +48,11 @@ service:
     images:
     - "/images/main_img1.jpg"
     content: |-
-      <li>Pay a simple flat monthly rate of US$1499 for a full-time highly-skilled Laravel expert.</li>
-      <li>No hidden fees. Cancel at any time.</li>
-      <li>Suitable for any Laravel project - any size, any budget.</li>
-      <li>Interact directly with your Laravel developer and retain full control over your project.</li>
-      <li>We build highly-scalable, efficient and secure Laravel web apps. You reap the benefits.</li>
+      Pay a simple flat monthly rate of US$1499 for a full-time highly-skilled Laravel expert.
+      No hidden fees. Cancel at any time.
+      Suitable for any Laravel project - any size, any budget.
+      Interact directly with your Laravel developer and retain full control over your project.
+      We build highly-scalable, efficient and secure Laravel web apps. You reap the benefits.
     button:
       enable: true
       label: Check it out
