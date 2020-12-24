@@ -35,6 +35,15 @@ feature:
 service:
   enable: true
   service_item:
+  - title: The Fine Print
+    images:
+    - "/images/service-3.png"
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button: ''
   - title: LaraCoders in a Nutshell
     images:
     - "/images/main_img1.jpg"
