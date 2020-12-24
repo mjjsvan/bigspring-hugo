@@ -49,14 +49,15 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: LaraCoders in a Nutshell
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: |-
+      <li>Pay a simple flat monthly rate of US$1499 for a full-time highly-skilled Laravel expert.</li>
+      <li>No hidden fees. Cancel at any time.</li>
+      <li>Suitable for any Laravel project - any size, any budget.</li>
+      <li>Interact directly with your Laravel developer and retain full control over your project.</li>
+      <li>We build highly-scalable, efficient and secure Laravel web apps. You reap the benefits.</li>
     button:
       enable: true
       label: Check it out
