@@ -1,13 +1,13 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: Laravel Coders @ $1499/month
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: |-
+    We offer you the hassle free and efficient option to hire expert Laravel developers to support you on a dedicated and exclusive basis.
+    No hidden fees, no strings attached and an assured 14-day money back guarantee * if you are not fully satisfied.
   button:
     enable: true
-    label: Contact With Us
+    label: Contact us for a free time estimate
     link: contact
 feature:
   enable: true
