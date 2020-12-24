@@ -51,7 +51,7 @@ service:
       link: "#"
   - title: LaraCoders in a Nutshell
     images:
-    - images/service-1.png
+    - "/images/main_img1.jpg"
     content: |-
       <li>Pay a simple flat monthly rate of US$1499 for a full-time highly-skilled Laravel expert.</li>
       <li>No hidden fees. Cancel at any time.</li>
